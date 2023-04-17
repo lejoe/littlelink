@@ -375,6 +375,8 @@ button:hover,
 /* lejoe website */
 .button.button-lejoe {
   color: #2c3440;
+  outline: 2px solid #2c3440;
+  outline-offset: -2px;
   background-color: #ffffff;
 }
 .button.button-lejoe:hover,
