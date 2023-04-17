@@ -374,10 +374,10 @@ button:hover,
 
 /* lejoe website */
 .button.button-lejoe {
-  color: #2c3440;
-  outline: 2px solid #2c3440;
+  color: #000000;
+  outline: 2px solid #000000;
   outline-offset: -2px;
-  background-color: #ffffff;
+  background-color: #e5e7eb;
 }
 .button.button-lejoe:hover,
 .button.button-lejoe:focus {
