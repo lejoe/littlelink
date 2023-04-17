@@ -372,6 +372,16 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* lejoe website */
+.button.button-lejoe {
+  color: #2c3440;
+  background-color: #ffffff;
+}
+.button.button-lejoe:hover,
+.button.button-lejoe:focus {
+  filter: brightness(90%);
+}
+
 /* Letterboxd */
 .button.button-letterboxd {
   color: #ffffff;
@@ -485,6 +495,16 @@ button:hover,
 }
 .button.button-producthunt:hover,
 .button.button-producthunt:focus {
+  filter: brightness(90%);
+}
+
+/* Read-cv */
+.button.button-readcv {
+  color: rgb(238, 238, 238);
+  background-color: rgb(34, 34, 34);
+}
+.button.button-readcv:hover,
+.button.button-readcv:focus {
   filter: brightness(90%);
 }
 
